@@ -1,0 +1,13 @@
+{
+ "schemaVersion":1,
+ "id":"route-du-rhum-2026",
+ "name":"Route du Rhum 2026",
+ "className":"IMOCA",
+ "trackerUrl":"https://carto.routedurhum.com/en/index.html",
+ "provider":"geovoile-page",
+ "refreshMinutes":10,
+ "staleMinutes":180,
+ "dataUrl":"./data/fleet.json",
+ "start":{"name":"Saint-Malo","lat":48.7286,"lon":-1.9},
+ "finish":{"name":"Pointe-à-Pitre","lat":16.22,"lon":-61.53}
+}
